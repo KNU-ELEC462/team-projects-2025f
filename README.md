@@ -26,7 +26,7 @@ As a final team project, students were challenged to design and implement practi
 - **Team 03:** [PicoNAS](https://github.com/mg00310/ELEC462_PicoNAS)  
   A lightweight terminal-based NAS system supporting client-server file browsing and transfer.
 
-- **Team 04:** [Encrypted Shared File System Project](https://github.com/nyoeng/Systemprogramming_Teamproject)  
+- **Team 04:** [Encrypted Shared File System](https://github.com/nyoeng/Systemprogramming_Teamproject)  
   A shared file system integrating encryption and version management with a terminal client-server interface.
 
 - **Team 05:** [Multi-user Chat & File Transfer System](https://github.com/jwjang321/system-programming)  
