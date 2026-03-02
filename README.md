@@ -93,8 +93,8 @@ As a final team project, students were challenged to design and implement practi
 
 For inquiries, please contact the course instructor:
 
-**Prof. Myeonggyun Han**
-School of Computer Science and Engineering, College of IT
-Kyungpook National University (KNU)
+**Prof. Myeonggyun Han**  
+School of Computer Science and Engineering, College of IT  
+Kyungpook National University (KNU)  
 📧 [mhan@knu.ac.kr](mailto:mhan@knu.ac.kr)
 
